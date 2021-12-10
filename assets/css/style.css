@@ -1244,7 +1244,7 @@ textarea.form-control {
 .sectHitos {
 
     background-image: url('../../img/bkgHitos.png');    
-    height: 500px;
+    height: 550px;
     background-attachment: fixed;
     margin: 100px 0 0px 0;
 }
@@ -1290,7 +1290,7 @@ textarea.form-control {
 
 .hitosCard {
 
-    height: 20.60rem;
+    height: 23.80rem;
     margin-top: 100px;
     z-index: 50;
     position: absolute;    
@@ -1334,7 +1334,7 @@ textarea.form-control {
 @media (min-width: 1360px) {
     .hitosCard {
 
-        height: 22.60rem;
+        height: 20.60rem;
         margin-top: 100px;/*
         z-index: 50;
         position: absolute;  */  
@@ -1347,7 +1347,7 @@ textarea.form-control {
 @media (min-width: 1200px) {
     .hitosCard {
 
-        height: 22.60rem;
+        height: 25.10rem;
         margin-top: 100px;/*
         z-index: 50;
         position: absolute;  */    
